@@ -1,0 +1,74 @@
+[
+  {
+    "energy": "electricity",
+    "cost_per_unit": 2137.0,
+    "effective_from": "2022-01-01",
+    "notes": "2.137 $/kWh x1000 -> $/MWHr"
+  },
+  {
+    "energy": "water",
+    "cost_per_unit": 25.53,
+    "effective_from": "2022-01-01",
+    "notes": "$/M3"
+  },
+  {
+    "energy": "gas",
+    "cost_per_unit": 615.99,
+    "effective_from": "2022-01-01",
+    "notes": "weighted annual avg $/MWHr (Fundicion)"
+  },
+  {
+    "energy": "electricity",
+    "cost_per_unit": 2134.0,
+    "effective_from": "2023-01-01",
+    "notes": "2.134 $/kWh x1000 -> $/MWHr"
+  },
+  {
+    "energy": "water",
+    "cost_per_unit": 28.1,
+    "effective_from": "2023-01-01",
+    "notes": "$/M3"
+  },
+  {
+    "energy": "gas",
+    "cost_per_unit": 330.09,
+    "effective_from": "2023-01-01",
+    "notes": "weighted annual avg $/MWHr (Fundicion)"
+  },
+  {
+    "energy": "electricity",
+    "cost_per_unit": 2232.0,
+    "effective_from": "2024-01-01",
+    "notes": "2.232 $/kWh x1000 -> $/MWHr"
+  },
+  {
+    "energy": "water",
+    "cost_per_unit": 29.73,
+    "effective_from": "2024-01-01",
+    "notes": "$/M3"
+  },
+  {
+    "energy": "gas",
+    "cost_per_unit": 322.64,
+    "effective_from": "2024-01-01",
+    "notes": "weighted annual avg $/MWHr (Fundicion)"
+  },
+  {
+    "energy": "electricity",
+    "cost_per_unit": 2315.0,
+    "effective_from": "2025-01-01",
+    "notes": "2.315 $/kWh x1000 -> $/MWHr"
+  },
+  {
+    "energy": "water",
+    "cost_per_unit": 30.7,
+    "effective_from": "2025-01-01",
+    "notes": "$/M3"
+  },
+  {
+    "energy": "gas",
+    "cost_per_unit": 377.46,
+    "effective_from": "2025-01-01",
+    "notes": "weighted annual avg $/MWHr (Fundicion)"
+  }
+]

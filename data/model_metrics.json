@@ -1,0 +1,80 @@
+[
+  {
+    "plant": "Fundición Aluminio",
+    "energy": "electricity",
+    "model_type": "OLS",
+    "mape_monthly": 2.56,
+    "mape_quarterly": null,
+    "r2": 0.9312,
+    "mae": 100.6,
+    "rmse": 138.0,
+    "annual_error": -0.32,
+    "meets_threshold": true,
+    "status": "ready"
+  },
+  {
+    "plant": "Fundición Aluminio",
+    "energy": "water",
+    "model_type": "Ridge",
+    "mape_monthly": 5.18,
+    "mape_quarterly": 3.22,
+    "r2": 0.366,
+    "mae": 262.6,
+    "rmse": 357.7,
+    "annual_error": -1.61,
+    "meets_threshold": true,
+    "status": "ready"
+  },
+  {
+    "plant": "Fundición Aluminio",
+    "energy": "gas",
+    "model_type": null,
+    "mape_monthly": null,
+    "mape_quarterly": null,
+    "r2": null,
+    "mae": null,
+    "rmse": null,
+    "annual_error": null,
+    "meets_threshold": false,
+    "status": "in_progress"
+  },
+  {
+    "plant": "Motores Norte",
+    "energy": "electricity",
+    "model_type": "OLS",
+    "mape_monthly": 3.05,
+    "mape_quarterly": null,
+    "r2": 0.7053,
+    "mae": 139.9,
+    "rmse": 211.4,
+    "annual_error": 1.18,
+    "meets_threshold": true,
+    "status": "ready"
+  },
+  {
+    "plant": "Motores Norte",
+    "energy": "water",
+    "model_type": "Naive seasonal",
+    "mape_monthly": 10.8,
+    "mape_quarterly": 10.89,
+    "r2": -11.6552,
+    "mae": 313.2,
+    "rmse": 395.6,
+    "annual_error": -10.95,
+    "meets_threshold": false,
+    "status": "ready"
+  },
+  {
+    "plant": "Motores Norte",
+    "energy": "gas",
+    "model_type": "Naive seasonal",
+    "mape_monthly": 14.99,
+    "mape_quarterly": 11.73,
+    "r2": -0.6577,
+    "mae": 11.3,
+    "rmse": 13.9,
+    "annual_error": 8.06,
+    "meets_threshold": false,
+    "status": "ready"
+  }
+]
